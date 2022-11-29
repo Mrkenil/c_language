@@ -1,0 +1,4 @@
+id	name	matsh	computer	English	Hindi	scince	otal	gread
+-------	-------	-------	-------	-------	-------	-------	-------	-------	-------
+1	kenil	78	97	89	90	94	448	
+
